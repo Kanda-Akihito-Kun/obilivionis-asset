@@ -1,0 +1,868 @@
+{
+  "1": {
+    "no": 1,
+    "words": [
+      {
+        "origin_word": "祥ちゃん",
+        "origin_pronounce": "さきちゃん",
+        "lemma": "祥ちゃん",
+        "translation": "小祥"
+      }
+    ]
+  },
+  "2": {
+    "no": 2,
+    "words": [
+      {
+        "origin_word": "よかった",
+        "origin_pronounce": "よかった (yokatta)",
+        "lemma": "よかった",
+        "translation": "太好了"
+      },
+      {
+        "origin_word": "來てくれて",
+        "origin_pronounce": "きてくれて (kite kurete)",
+        "lemma": "來てくれて",
+        "translation": "你终于来了"
+      }
+    ]
+  },
+  "3": {
+    "no": 3,
+    "words": [
+      {
+        "origin_word": "びしょ濡れ",
+        "origin_pronounce": "びしょぬれ (bishonure)",
+        "lemma": "びしょ濡れ",
+        "translation": "湿透了"
+      },
+      {
+        "origin_word": "じゃない",
+        "origin_pronounce": "じゃない (janai)",
+        "lemma": "ではない",
+        "translation": ""
+      },
+      {
+        "origin_word": "大丈夫",
+        "origin_pronounce": "だいじょうぶ (daijōbu)",
+        "lemma": "大丈夫",
+        "translation": "没事吧"
+      }
+    ]
+  },
+  "4": {
+    "no": 4,
+    "words": [
+      {
+        "origin_word": "学校",
+        "origin_pronounce": "がっこう (gakkō)",
+        "lemma": "学校",
+        "translation": "学校"
+      },
+      {
+        "origin_word": "休んでる",
+        "origin_pronounce": "やすんでる (yasunderu)",
+        "lemma": "休んでいる",
+        "translation": "休"
+      },
+      {
+        "origin_word": "し",
+        "origin_pronounce": "し (shi)",
+        "lemma": "し",
+        "translation": ""
+      }
+    ]
+  },
+  "5": {
+    "no": 5,
+    "words": [
+      {
+        "origin_word": "返事",
+        "origin_pronounce": "へんじ (henji)",
+        "lemma": "返事",
+        "translation": "回"
+      },
+      {
+        "origin_word": "も",
+        "origin_pronounce": "も (mo)",
+        "lemma": "も",
+        "translation": ""
+      },
+      {
+        "origin_word": "全然",
+        "origin_pronounce": "ぜんぜん (zenzen)",
+        "lemma": "全然",
+        "translation": "也不"
+      },
+      {
+        "origin_word": "ない",
+        "origin_pronounce": "ない (nai)",
+        "lemma": "ない",
+        "translation": ""
+      },
+      {
+        "origin_word": "から",
+        "origin_pronounce": "から (kara)",
+        "lemma": "から",
+        "translation": ""
+      }
+    ]
+  },
+  "6": {
+    "no": 6,
+    "words": [
+      {
+        "origin_word": "今日",
+        "origin_pronounce": "きょう (kyō)",
+        "lemma": "今日",
+        "translation": "今天"
+      },
+      {
+        "origin_word": "は",
+        "origin_pronounce": "は (wa)",
+        "lemma": "は",
+        "translation": ""
+      },
+      {
+        "origin_word": "言う",
+        "origin_pronounce": "いう (iu)",
+        "lemma": "言う",
+        "translation": "说"
+      },
+      {
+        "origin_word": "こと",
+        "origin_pronounce": "こと (koto)",
+        "lemma": "こと",
+        "translation": "事"
+      },
+      {
+        "origin_word": "が",
+        "origin_pronounce": "が (ga)",
+        "lemma": "が",
+        "translation": ""
+      },
+      {
+        "origin_word": "あって",
+        "origin_pronounce": "あって (atte)",
+        "lemma": "ある",
+        "translation": "有"
+      },
+      {
+        "origin_word": "来ました",
+        "origin_pronounce": "きました (kimashita)",
+        "lemma": "来る",
+        "translation": "来"
+      },
+      {
+        "origin_word": "の",
+        "origin_pronounce": "の (no)",
+        "lemma": "の",
+        "translation": ""
+      }
+    ]
+  },
+  "7": {
+    "no": 7,
+    "words": [
+      {
+        "origin_word": "CRYCHIC",
+        "origin_pronounce": "クライシック",
+        "lemma": "CRYCHIC",
+        "translation": "CRYCHIC"
+      },
+      {
+        "origin_word": "を",
+        "origin_pronounce": "を",
+        "lemma": "を",
+        "translation": ""
+      },
+      {
+        "origin_word": "やめさせていただきます",
+        "origin_pronounce": "やめさせていただきます",
+        "lemma": "やめさせていただく",
+        "translation": "退出"
+      },
+      {
+        "origin_word": "わ",
+        "origin_pronounce": "わ",
+        "lemma": "わ",
+        "translation": ""
+      }
+    ]
+  },
+  "8": {
+    "no": 8,
+    "words": [
+      {
+        "origin_word": "ちょっと",
+        "origin_pronounce": "ちょっと (chotto)",
+        "lemma": "ちょっと",
+        "translation": "等一下"
+      },
+      {
+        "origin_word": "待て",
+        "origin_pronounce": "まて (mate)",
+        "lemma": "待つ",
+        "translation": ""
+      },
+      {
+        "origin_word": "いったん",
+        "origin_pronounce": "いったん (ittan)",
+        "lemma": "いったん",
+        "translation": "先"
+      },
+      {
+        "origin_word": "座らない",
+        "origin_pronounce": "すわらない (suwaranai)",
+        "lemma": "座る",
+        "translation": "坐下"
+      }
+    ]
+  },
+  "9": {
+    "no": 9,
+    "words": [
+      {
+        "origin_word": "どうして",
+        "origin_pronounce": "どうして (doushite)",
+        "lemma": "どうして",
+        "translation": "为什么"
+      },
+      {
+        "origin_word": "何か",
+        "origin_pronounce": "なにか (nanika)",
+        "lemma": "何か",
+        "translation": "什么"
+      },
+      {
+        "origin_word": "あった",
+        "origin_pronounce": "あった (atta)",
+        "lemma": "ある",
+        "translation": "出"
+      }
+    ]
+  },
+  "10": {
+    "no": 10,
+    "words": [
+      {
+        "origin_word": "私たち",
+        "origin_pronounce": "わたしたち (watashitachi)",
+        "lemma": "私たち",
+        "translation": "我们"
+      },
+      {
+        "origin_word": "には",
+        "origin_pronounce": "には (ni wa)",
+        "lemma": "には",
+        "translation": ""
+      },
+      {
+        "origin_word": "言えない",
+        "origin_pronounce": "いえない (ienai)",
+        "lemma": "言える",
+        "translation": "告诉"
+      }
+    ]
+  },
+  "11": {
+    "no": 11,
+    "words": [
+      {
+        "origin_word": "それとも",
+        "origin_pronounce": "それとも (soretomo)",
+        "lemma": "それとも",
+        "translation": "还是说"
+      },
+      {
+        "origin_word": "私たち",
+        "origin_pronounce": "わたしたち (watashitachi)",
+        "lemma": "私たち",
+        "translation": "我们"
+      },
+      {
+        "origin_word": "が",
+        "origin_pronounce": "が (ga)",
+        "lemma": "が",
+        "translation": ""
+      },
+      {
+        "origin_word": "原因",
+        "origin_pronounce": "げんいん (gen'in)",
+        "lemma": "原因",
+        "translation": "原因"
+      }
+    ]
+  },
+  "12": {
+    "no": 12,
+    "words": [
+      {
+        "origin_word": "ダメ",
+        "origin_pronounce": "だめ (dame)",
+        "lemma": "ダメ",
+        "translation": "问题"
+      },
+      {
+        "origin_word": "な",
+        "origin_pronounce": "な (na)",
+        "lemma": "な",
+        "translation": ""
+      },
+      {
+        "origin_word": "ところ",
+        "origin_pronounce": "ところ (tokoro)",
+        "lemma": "ところ",
+        "translation": ""
+      },
+      {
+        "origin_word": "あったら",
+        "origin_pronounce": "あったら (attara)",
+        "lemma": "ある",
+        "translation": "有"
+      },
+      {
+        "origin_word": "直す",
+        "origin_pronounce": "なおす (naosu)",
+        "lemma": "直す",
+        "translation": "改正"
+      },
+      {
+        "origin_word": "から",
+        "origin_pronounce": "から (kara)",
+        "lemma": "から",
+        "translation": ""
+      }
+    ]
+  },
+  "13": {
+    "no": 13,
+    "words": [
+      {
+        "origin_word": "わたくし",
+        "origin_pronounce": "わたくし (watakushi)",
+        "lemma": "わたくし",
+        "translation": "我"
+      },
+      {
+        "origin_word": "一人",
+        "origin_pronounce": "ひとり (hitori)",
+        "lemma": "一人",
+        "translation": "自己"
+      },
+      {
+        "origin_word": "の",
+        "origin_pronounce": "の (no)",
+        "lemma": "の",
+        "translation": ""
+      },
+      {
+        "origin_word": "問題",
+        "origin_pronounce": "もんだい (mondai)",
+        "lemma": "問題",
+        "translation": "问题"
+      },
+      {
+        "origin_word": "です",
+        "origin_pronounce": "です (desu)",
+        "lemma": "です",
+        "translation": ""
+      },
+      {
+        "origin_word": "から",
+        "origin_pronounce": "から (kara)",
+        "lemma": "から",
+        "translation": ""
+      }
+    ]
+  },
+  "14": {
+    "no": 14,
+    "words": [
+      {
+        "origin_word": "どうして",
+        "origin_pronounce": "どうして (doushite)",
+        "lemma": "どうして",
+        "translation": "为什么"
+      }
+    ]
+  },
+  "15": {
+    "no": 15,
+    "words": [
+      {
+        "origin_word": "この前",
+        "origin_pronounce": "このまえ (kono mae)",
+        "lemma": "この前",
+        "translation": "之前"
+      },
+      {
+        "origin_word": "の",
+        "origin_pronounce": "の (no)",
+        "lemma": "の",
+        "translation": ""
+      },
+      {
+        "origin_word": "ライブ",
+        "origin_pronounce": "らいぶ (raibu)",
+        "lemma": "ライブ",
+        "translation": "演出"
+      },
+      {
+        "origin_word": "楽しかった",
+        "origin_pronounce": "たのしかった (tanoshikatta)",
+        "lemma": "楽しい",
+        "translation": "很开心"
+      },
+      {
+        "origin_word": "じゃない",
+        "origin_pronounce": "じゃない (ja nai)",
+        "lemma": "じゃない",
+        "translation": "不是"
+      }
+    ]
+  },
+  "16": {
+    "no": 16,
+    "words": [
+      {
+        "origin_word": "また",
+        "origin_pronounce": "また (mata)",
+        "lemma": "また",
+        "translation": "还"
+      },
+      {
+        "origin_word": "やりたい",
+        "origin_pronounce": "やりたい (yaritai)",
+        "lemma": "やりたい",
+        "translation": "想再参加"
+      },
+      {
+        "origin_word": "って",
+        "origin_pronounce": "って (tte)",
+        "lemma": "って",
+        "translation": ""
+      },
+      {
+        "origin_word": "話してた",
+        "origin_pronounce": "はなしてた (hanashiteta)",
+        "lemma": "話していた",
+        "translation": "说过"
+      },
+      {
+        "origin_word": "よね",
+        "origin_pronounce": "よね (yone)",
+        "lemma": "よね",
+        "translation": "吧"
+      }
+    ]
+  },
+  "17": {
+    "no": 17,
+    "words": [
+      {
+        "origin_word": "いってません",
+        "origin_pronounce": "いってません (itte masen)",
+        "lemma": "言っていません",
+        "translation": "没说"
+      },
+      {
+        "origin_word": "わ",
+        "origin_pronounce": "わ (wa)",
+        "lemma": "わ",
+        "translation": ""
+      }
+    ]
+  },
+  "18": {
+    "no": 18,
+    "words": [
+      {
+        "origin_word": "そう",
+        "origin_pronounce": "そう (sō)",
+        "lemma": "そう",
+        "translation": "这样"
+      },
+      {
+        "origin_word": "だっけ",
+        "origin_pronounce": "だっけ (dakke)",
+        "lemma": "だっけ",
+        "translation": "吗"
+      }
+    ]
+  },
+  "19": {
+    "no": 19,
+    "words": [
+      {
+        "origin_word": "でも",
+        "origin_pronounce": "でも(demo)",
+        "lemma": "でも",
+        "translation": "可是"
+      },
+      {
+        "origin_word": "CRYCHIC",
+        "origin_pronounce": "クライシック(kuraishikku)",
+        "lemma": "CRYCHIC",
+        "translation": "CRYCHIC"
+      },
+      {
+        "origin_word": "を",
+        "origin_pronounce": "を(wo)",
+        "lemma": "を",
+        "translation": ""
+      },
+      {
+        "origin_word": "始めた",
+        "origin_pronounce": "はじめた(hajimeta)",
+        "lemma": "始める",
+        "translation": "发起"
+      },
+      {
+        "origin_word": "のは",
+        "origin_pronounce": "のは(noha)",
+        "lemma": "のは",
+        "translation": ""
+      },
+      {
+        "origin_word": "祥ちゃん",
+        "origin_pronounce": "さきちゃん(sakichan)",
+        "lemma": "祥ちゃん",
+        "translation": "你"
+      },
+      {
+        "origin_word": "だ",
+        "origin_pronounce": "だ(da)",
+        "lemma": "だ",
+        "translation": "是"
+      },
+      {
+        "origin_word": "よ",
+        "origin_pronounce": "よ(yo)",
+        "lemma": "よ",
+        "translation": ""
+      },
+      {
+        "origin_word": "？",
+        "origin_pronounce": "",
+        "lemma": "？",
+        "translation": "啊"
+      }
+    ]
+  },
+  "20": {
+    "no": 20,
+    "words": [
+      {
+        "origin_word": "祥ちゃん",
+        "origin_pronounce": "さきちゃん (saki-chan)",
+        "lemma": "祥ちゃん",
+        "translation": "祥"
+      },
+      {
+        "origin_word": "が",
+        "origin_pronounce": "が (ga)",
+        "lemma": "が",
+        "translation": ""
+      },
+      {
+        "origin_word": "やめたら",
+        "origin_pronounce": "やめたら (yametara)",
+        "lemma": "やめる",
+        "translation": "退出"
+      }
+    ]
+  },
+  "21": {
+    "no": 21,
+    "words": [
+      {
+        "origin_word": "本当に",
+        "origin_pronounce": "ほんとうに (hontōni)",
+        "lemma": "本当に",
+        "translation": "真的"
+      },
+      {
+        "origin_word": "やめちゃう",
+        "origin_pronounce": "やめちゃう (yamechau)",
+        "lemma": "やめてしまう",
+        "translation": "要退出"
+      },
+      {
+        "origin_word": "の",
+        "origin_pronounce": "の (no)",
+        "lemma": "の",
+        "translation": "吗"
+      }
+    ]
+  },
+  "22": {
+    "no": 22,
+    "words": [
+      {
+        "origin_word": "灯",
+        "origin_pronounce": "ひかり",
+        "lemma": "灯",
+        "translation": "灯"
+      },
+      {
+        "origin_word": "が",
+        "origin_pronounce": "が",
+        "lemma": "が",
+        "translation": ""
+      },
+      {
+        "origin_word": "聞いてる",
+        "origin_pronounce": "きいてる",
+        "lemma": "聞いている",
+        "translation": "在问"
+      },
+      {
+        "origin_word": "んだけど",
+        "origin_pronounce": "んだけど",
+        "lemma": "のだ",
+        "translation": "呢"
+      }
+    ]
+  },
+  "23": {
+    "no": 23,
+    "words": [
+      {
+        "origin_word": "てか",
+        "origin_pronounce": "てか (teka)",
+        "lemma": "てか",
+        "translation": "而且"
+      },
+      {
+        "origin_word": "無責任",
+        "origin_pronounce": "むせきにん (musekinin)",
+        "lemma": "無責任",
+        "translation": "不负责任"
+      },
+      {
+        "origin_word": "じゃない",
+        "origin_pronounce": "じゃない (janai)",
+        "lemma": "じゃない",
+        "translation": "吧"
+      }
+    ]
+  },
+  "24": {
+    "no": 24,
+    "words": [
+      {
+        "origin_word": "なんで",
+        "origin_pronounce": "なんで (nande)",
+        "lemma": "なんで",
+        "translation": "为什么"
+      },
+      {
+        "origin_word": "黙ってん",
+        "origin_pronounce": "だまってん (damatten)",
+        "lemma": "黙っている",
+        "translation": "不说话"
+      },
+      {
+        "origin_word": "の",
+        "origin_pronounce": "の (no)",
+        "lemma": "の",
+        "translation": ""
+      }
+    ]
+  },
+  "25": {
+    "no": 25,
+    "words": [
+      {
+        "origin_word": "立希ちゃん",
+        "origin_pronounce": "たちきちゃん (tachiki-chan)",
+        "lemma": "立希ちゃん",
+        "translation": "立希"
+      },
+      {
+        "origin_word": "やめて",
+        "origin_pronounce": "やめて (yamete)",
+        "lemma": "やめる",
+        "translation": "别这样"
+      }
+    ]
+  },
+  "26": {
+    "no": 26,
+    "words": [
+      {
+        "origin_word": "じゃあ",
+        "origin_pronounce": "じゃあ (jaa)",
+        "lemma": "じゃあ",
+        "translation": ""
+      },
+      {
+        "origin_word": "迷惑",
+        "origin_pronounce": "めいわく (meiwaku)",
+        "lemma": "迷惑",
+        "translation": "麻烦"
+      },
+      {
+        "origin_word": "かけないで",
+        "origin_pronounce": "かけないで (kakenaide)",
+        "lemma": "かけないで",
+        "translation": "别给我们添"
+      },
+      {
+        "origin_word": "やめて",
+        "origin_pronounce": "やめて (yamete)",
+        "lemma": "やめて",
+        "translation": "退出"
+      },
+      {
+        "origin_word": "くれる",
+        "origin_pronounce": "くれる (kureru)",
+        "lemma": "くれる",
+        "translation": ""
+      }
+    ]
+  },
+  "27": {
+    "no": 27,
+    "words": [
+      {
+        "origin_word": "今日",
+        "origin_pronounce": "きょう (kyou)",
+        "lemma": "今日",
+        "translation": "今天"
+      },
+      {
+        "origin_word": "だって",
+        "origin_pronounce": "だって (datte)",
+        "lemma": "だって",
+        "translation": "也是"
+      },
+      {
+        "origin_word": "祥子",
+        "origin_pronounce": "さき (saki)",
+        "lemma": "祥子",
+        "translation": "祥子"
+      },
+      {
+        "origin_word": "待ち",
+        "origin_pronounce": "まち (machi)",
+        "lemma": "待ち",
+        "translation": "等"
+      },
+      {
+        "origin_word": "で",
+        "origin_pronounce": "で (de)",
+        "lemma": "で",
+        "translation": ""
+      }
+    ]
+  },
+  "28": {
+    "no": 28,
+    "words": [
+      {
+        "origin_word": "立希ちゃん",
+        "origin_pronounce": "りきちゃん (riki-chan)",
+        "lemma": "立希ちゃん",
+        "translation": "立希"
+      }
+    ]
+  },
+  "29": {
+    "no": 29,
+    "words": [
+      {
+        "origin_word": "わたくし",
+        "origin_pronounce": "わたくし (watakushi)",
+        "lemma": "私",
+        "translation": "我"
+      },
+      {
+        "origin_word": "が",
+        "origin_pronounce": "が (ga)",
+        "lemma": "が",
+        "translation": ""
+      },
+      {
+        "origin_word": "なくても",
+        "origin_pronounce": "なくても (nakutemo)",
+        "lemma": "なくても",
+        "translation": "不在"
+      },
+      {
+        "origin_word": "出来た",
+        "origin_pronounce": "できた (dekita)",
+        "lemma": "出来る",
+        "translation": "能"
+      },
+      {
+        "origin_word": "でしょう",
+        "origin_pronounce": "でしょう (deshou)",
+        "lemma": "でしょう",
+        "translation": "吧"
+      }
+    ]
+  },
+  "30": {
+    "no": 30,
+    "words": [
+      {
+        "origin_word": "練習",
+        "origin_pronounce": "れんしゅう (renshuu)",
+        "lemma": "練習",
+        "translation": "练习"
+      },
+      {
+        "origin_word": "したい",
+        "origin_pronounce": "したい (shitai)",
+        "lemma": "したい",
+        "translation": "想"
+      },
+      {
+        "origin_word": "なら",
+        "origin_pronounce": "なら (nara)",
+        "lemma": "なら",
+        "translation": "的话"
+      },
+      {
+        "origin_word": "すれば",
+        "origin_pronounce": "すれば (sureba)",
+        "lemma": "すれば",
+        "translation": "练"
+      },
+      {
+        "origin_word": "いい",
+        "origin_pronounce": "いい (ii)",
+        "lemma": "いい",
+        "translation": "好"
+      },
+      {
+        "origin_word": "でしょう",
+        "origin_pronounce": "でしょう (deshou)",
+        "lemma": "でしょう",
+        "translation": "不就好了"
+      }
+    ]
+  },
+  "80": {
+    "no": 80,
+    "words": []
+  },
+  "81": {
+    "no": 81,
+    "words": []
+  },
+  "202": {
+    "no": 202,
+    "words": []
+  },
+  "235": {
+    "no": 235,
+    "words": []
+  },
+  "370": {
+    "no": 370,
+    "words": []
+  }
+}
